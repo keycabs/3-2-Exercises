@@ -1,6 +1,10 @@
 public class Chickens01 {
     public static void main(String[] args) {
-        //Put yout code here
+        int chickenCount = 3;
+        int eggsPerChicken = 5;
+        int totalEggs = 0;
+
+        mondayEggs = 
         
         System.out.println(totalEggs);
     }   
