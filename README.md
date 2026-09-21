@@ -1,4 +1,4 @@
-# 3-2 Excercises
+# 3-2 Excercises (Counting Chickens)
 
 ### Abstract
 
